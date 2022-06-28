@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Barbossa1
+- 👀 I’m interested in programming :)
+- 🌱 I’m currently learning php, js, html
+- 💞️ I’m looking to collaborate on team to teach me more
+- 📫 How to reach me: https://t.me/baqration
