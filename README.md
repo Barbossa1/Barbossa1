@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Barbossa1
 - 👀 I’m interested in programming :)
-- 🌱 I’m currently learning php, js, html
+- 🌱 I’m currently learning HTML, JS, PHP, MySQL, Laravel, Bootstrap
 - 💞️ I’m looking to collaborate on team to teach me more
 - 📫 How to reach me: https://t.me/baqration
